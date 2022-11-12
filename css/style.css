@@ -1,0 +1,19 @@
+body, html {
+	height: 110%;
+	overflow: hidden;
+}
+
+.video-iflab {
+	width: 100%;
+	height: 850px;
+}
+
+.video-position {
+	margin-left: -12px !important;
+	margin-bottom: -0px !important;
+}
+
+.height-card-2 {
+	padding-top: 13px !important;
+	height: 50px;
+}
